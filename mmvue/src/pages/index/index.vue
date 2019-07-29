@@ -9,7 +9,6 @@
         <card :text="userInfo.nickName"></card>
       </div>
     </div>
-
     <div class="usermotto">
       <div class="user-motto">
         <card :text="motto"></card>
